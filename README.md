@@ -13,9 +13,6 @@
   <a href="udemy url">
     <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="medium url">
-    <img src="	https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Twitter Badge"/>
-  </a>
   <a href="hashnode url">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Twitter Badge"/>
   </a>
