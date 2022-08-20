@@ -27,4 +27,4 @@ I am Alemayehu Midekisa. I am  a research scientist at the University of Alabama
 
 ![https://github.com/SpatialeLearning](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
 
-![https://github.com/SpatialeLearning](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
+![https://github.com/SpatialeLearning](https://github-readme-stats.vercel.app/api/top-langs/?username=SpatialeLearning&theme=blue-green)
