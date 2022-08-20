@@ -29,6 +29,7 @@ I am Alemayehu Midekisa. I am  a research scientist at the University of Alabama
 
 
 
+
 ## 📝 Premium Courses 
 
 - [The Google Earth Engine Mega Course for GIS and Remote Sensing](https://www.udemy.com/course/google-earth-engine-gis-remote-sensing/?couponCode=AUG22DISC)
