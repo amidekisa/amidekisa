@@ -10,7 +10,7 @@
   <a href="https://www.udemy.com/course/google-earth-engine-gis-remote-sensing/?couponCode=AUG22DISC">
     <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy Badge"/>
   </a>
-  <a href="https://twitter.com/spatialelearn">
+  <a href="https://twitter.com/DrAlemayehuM">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="hashnode url">
