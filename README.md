@@ -26,9 +26,7 @@ I am Alemayehu Midekisa. I am  a research scientist at the University of Alabama
 
 
 <div id="badges">
-   <a href="https://www.youtube.com/channel/UCzWimsVHHZFG1uMUYgKizqg">
-    <img src="![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
-" alt="Youtube Badge"/>
-  </a>
+   <a href="![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true"/>
+   </a>
  
 </div>
