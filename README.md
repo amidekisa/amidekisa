@@ -27,14 +27,15 @@ I am Alemayehu Midekisa. I am  a research scientist at the University of Alabama
 ![Spatial eLEarning's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpatialeLearning)]
 
 
-![https://github.com/SpatialeLearning](https://github-readme-stats.vercel.app/api/top-langs/?username=SpatialeLearning&theme=blue-green)
-
-
-
 ## 📝 Premium Courses 
 
 - [The Google Earth Engine Mega Course for GIS and Remote Sensing](https://www.udemy.com/course/google-earth-engine-gis-remote-sensing/?couponCode=AUG22DISC)
 - [Python for Spatial Data Analysis with Earth Engine and QGIS](https://www.udemy.com/course/python-for-spatial-data-analysis-with-earth-engine-and-qgis/?couponCode=AUG22DISC)
 - [Spatial Data Analysis with Earth Engine, Python and Colab](https://www.udemy.com/course/spatial-analysis-with-earth-engine-python-google-colab/?couponCode=AUG22DISC)
 - [Spatial Data Analysis with Earth Engine Python API](https://www.udemy.com/course/spatial-data-analysis-with-earth-engine-python-api/?couponCode=AUG22DISC)
+
+
+![https://github.com/SpatialeLearning](https://github-readme-stats.vercel.app/api/top-langs/?username=SpatialeLearning&theme=blue-green)
+
+
 
