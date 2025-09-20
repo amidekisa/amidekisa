@@ -9,8 +9,10 @@
   </a>
 </div>
 
-I am Alemayehu Midekisa. I am  a research scientist at the University of Alabama. I am a former NASA Earth and Space Science fellow. My research interests include flood inundation mapping, remote sensing, big data, cloud computing, and environmental change. More specifically, I am interested in applying big geospatial data, cloud computing and machine learning to solve complex environmental problems such as quantifying land cover change, and monitoring flood hazard.  
-
+Welcome to my GitHub! 
+I am a Geospatial Scientist and a former NASA Earth and Space Science Fellow with expertise in geospatial data science, remote sensing, and environmental change. My research focuses on applying big geospatial data, cloud computing, and machine learning to tackle complex environmental challenges, including drought early warning, land cover change detection, and flood hazard monitoring.
+I am passionate about developing scalable, data-driven solutions that advance our ability to understand and respond to environmental risks. With experience in tools such as Google Earth Engine, Python, and cloud-based GIS, I enjoy bridging science and technology to create practical applications that support decision-making.
+  
 
 ![Alemayehu Midekisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alemayehumidekisa)]
 
