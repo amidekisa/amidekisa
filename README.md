@@ -10,8 +10,9 @@
 </div>
 
 Welcome to my GitHub! 
-I am a Geospatial Scientist and a former NASA Earth and Space Science Fellow with expertise in geospatial data science, remote sensing, and environmental change. My research focuses on applying big geospatial data, cloud computing, and machine learning to tackle complex environmental challenges, including drought early warning, land cover change detection, and flood hazard monitoring.
-I am passionate about developing scalable, data-driven solutions that advance our ability to understand and respond to environmental risks. With experience in tools such as Google Earth Engine, Python, and cloud-based GIS, I enjoy bridging science and technology to create practical applications that support decision-making.
+I am a Geospatial Scientist and former NASA Earth and Space Science Fellow with expertise in geospatial data science, remote sensing, and environmental change. My research leverages big geospatial data, cloud computing, and machine learning to address complex environmental challenges, including drought early warning, flood monitoring, and land use change detection.
+
+Passionate about developing scalable, data-driven solutions, I work at the intersection of science and technology to advance our ability to understand and respond to environmental hazards. With hands-on experience in tools such as Google Earth Engine, Python, and geospatial AI, I specialize in transforming large-scale Earth observation data into actionable insights that support decision-making and real-world applications.
   
 
 ![Alemayehu Midekisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alemayehumidekisa)]
