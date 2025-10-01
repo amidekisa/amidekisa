@@ -15,7 +15,7 @@ I am a Geospatial Scientist and former NASA Earth and Space Science Fellow with 
 Passionate about developing scalable, data-driven solutions, I work at the intersection of science and technology to advance our ability to understand and respond to environmental hazards. With hands-on experience in tools such as Google Earth Engine, Python, and geospatial AI, I specialize in transforming large-scale Earth observation data into actionable insights that support decision-making and real-world applications.
   
 
-![Alemayehu Midekisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alemayehumidekisa)]
+![Alemayehu Midekisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=amidekisa)]
 
 
 ![https://github.com/SpatialeLearning](https://github-readme-stats.vercel.app/api/top-langs/?username=SpatialeLearning&theme=blue-green)
